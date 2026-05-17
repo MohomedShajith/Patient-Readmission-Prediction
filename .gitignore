@@ -1,0 +1,8 @@
+pat_env/
+.env
+__pycache__/
+*.pyc
+model/X_train.pkl
+model/X_test.pkl
+model/y_train.pkl
+model/y_test.pkl
